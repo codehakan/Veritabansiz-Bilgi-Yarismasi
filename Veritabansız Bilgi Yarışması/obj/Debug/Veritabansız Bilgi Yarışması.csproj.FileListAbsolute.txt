@@ -1,0 +1,9 @@
+c:\users\hakanbey\documents\visual studio 2013\Projects\Veritabansız Bilgi Yarışması\Veritabansız Bilgi Yarışması\bin\Debug\Veritabansız Bilgi Yarışması.exe.config
+c:\users\hakanbey\documents\visual studio 2013\Projects\Veritabansız Bilgi Yarışması\Veritabansız Bilgi Yarışması\bin\Debug\Veritabansız Bilgi Yarışması.exe
+c:\users\hakanbey\documents\visual studio 2013\Projects\Veritabansız Bilgi Yarışması\Veritabansız Bilgi Yarışması\bin\Debug\Veritabansız Bilgi Yarışması.pdb
+c:\users\hakanbey\documents\visual studio 2013\Projects\Veritabansız Bilgi Yarışması\Veritabansız Bilgi Yarışması\obj\Debug\Veritabansız Bilgi Yarışması.csprojResolveAssemblyReference.cache
+c:\users\hakanbey\documents\visual studio 2013\Projects\Veritabansız Bilgi Yarışması\Veritabansız Bilgi Yarışması\obj\Debug\Veritabansız_Bilgi_Yarışması.Form1.resources
+c:\users\hakanbey\documents\visual studio 2013\Projects\Veritabansız Bilgi Yarışması\Veritabansız Bilgi Yarışması\obj\Debug\Veritabansız_Bilgi_Yarışması.Properties.Resources.resources
+c:\users\hakanbey\documents\visual studio 2013\Projects\Veritabansız Bilgi Yarışması\Veritabansız Bilgi Yarışması\obj\Debug\Veritabansız Bilgi Yarışması.csproj.GenerateResource.Cache
+c:\users\hakanbey\documents\visual studio 2013\Projects\Veritabansız Bilgi Yarışması\Veritabansız Bilgi Yarışması\obj\Debug\Veritabansız Bilgi Yarışması.exe
+c:\users\hakanbey\documents\visual studio 2013\Projects\Veritabansız Bilgi Yarışması\Veritabansız Bilgi Yarışması\obj\Debug\Veritabansız Bilgi Yarışması.pdb
